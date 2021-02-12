@@ -24,11 +24,11 @@
             echo "<br/><br/>";
             echo "<br>Hipotenusa del triangulo: ", $hipotenusa;
             echo "<br/><br/>";
-            echo "<div id = 'return' align='center'><a href='index.html'>Regresar a la calculadora</a></div>";
+            echo "<div id = 'return' align='center'><a href='index.php'>Regresar a la calculadora</a></div>";
         }
         else {
             echo "<h1 align = 'center' > Hubo un error en el calculo del area, por favor verifique los campos </h1>";
-            echo "<div align='center'><a href='index.html'>Regresar a la calculadora</a></div>";
+            echo "<div align='center'><a href='index.php'>Regresar a la calculadora</a></div>";
         }
     } 
 
